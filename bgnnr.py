@@ -1,4 +1,4 @@
-#애완동물
+#반려동물
 
 animal = "고슴도치"
 name = "까미"
@@ -11,4 +11,3 @@ print(animal+"의 이름은 "+name+"이다")
 print(name+"는 날카로운 가시를 가지고 있다")
 print(name+"는 "+str(age)+"살이며, "+hobby+"를 아주 좋아한다")
 print(name+"는 어른일까?" +str(age))
-
